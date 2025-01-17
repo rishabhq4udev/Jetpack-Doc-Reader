@@ -4,6 +4,7 @@ import android.content.Context
 import javax.inject.Inject
 import javax.inject.Singleton
 
+
 @Singleton
 class DocRepositoryImpl @Inject constructor(private val context: Context) {
 
